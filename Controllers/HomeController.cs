@@ -50,17 +50,8 @@ public class HomeController : Controller
 	[HttpPost]
 	public async Task<IActionResult> Contact(ContactViewModel contactViewModel)
 	{
-		try
-		{
-			await serviceEmail.Sending(contactViewModel);
-		}
-		catch (System.Exception)
-		{
-			
-			_logger.LogError("Error");
-		}
+		await serviceEmail.Sending(contactViewModel);
 		return RedirectToAction("Thanks");
-		
 	}
 
 	public IActionResult Thanks() {
