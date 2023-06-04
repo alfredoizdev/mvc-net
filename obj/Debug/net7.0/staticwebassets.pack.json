@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/obj/Debug/net7.0/scopedcss/projectbundle/portafolio.bundle.scp.css",
+      "PackagePath": "staticwebassets/portafolio.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/css/custom.css",
+      "PackagePath": "staticwebassets/css/custom.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/ams.png",
+      "PackagePath": "staticwebassets/images/ams.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/angular-dashboard.png",
+      "PackagePath": "staticwebassets/images/angular-dashboard.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/angular-logo.png",
+      "PackagePath": "staticwebassets/images/angular-logo.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/best-wordpress-themes-1.jpg",
+      "PackagePath": "staticwebassets/images/best-wordpress-themes-1.jpg"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/chat-app.png",
+      "PackagePath": "staticwebassets/images/chat-app.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/chat-app.webp",
+      "PackagePath": "staticwebassets/images/chat-app.webp"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/e-comerce.jpeg",
+      "PackagePath": "staticwebassets/images/e-comerce.jpeg"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/me.jpg",
+      "PackagePath": "staticwebassets/images/me.jpg"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/nextjs.png",
+      "PackagePath": "staticwebassets/images/nextjs.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/react.png",
+      "PackagePath": "staticwebassets/images/react.png"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/images/wordpress.svg",
+      "PackagePath": "staticwebassets/images/wordpress.svg"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/alfredoizjr/Desktop/mvc-net/portafolio/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.portafolio.props",
+      "PackagePath": "build\\portafolio.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.portafolio.props",
+      "PackagePath": "buildMultiTargeting\\portafolio.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.portafolio.props",
+      "PackagePath": "buildTransitive\\portafolio.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.portafolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

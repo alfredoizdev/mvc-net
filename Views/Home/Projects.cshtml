@@ -1,0 +1,10 @@
+@model IEnumerable<ProjectViewModel>;
+@{
+	ViewData["Title"] = "Projects";
+}
+
+<div class="container">
+	<h1>My Projects</h1>
+	<p>This my list of projects</p>
+</div>
+<partial name="_ListaProjects" model="Model" />

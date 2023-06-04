@@ -1,0 +1,9 @@
+@model IEnumerable<ProjectViewModel>;
+
+@if(Model is not null) {
+	<div class="text-center pt-6">
+		<h1>My recent works</h1>
+		<p>You can watch some of my recent work</p>	
+	</div>
+	<partial name="_ListaProjects" model="Model" />
+}
